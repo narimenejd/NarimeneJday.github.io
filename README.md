@@ -1,4 +1,3 @@
-# NarimeneJday.github.io
 # Data science engineer
 
 ### Education
