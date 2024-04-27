@@ -4,7 +4,9 @@
 Engineering at ENICAR
 
 ### work experience
+-summer Internship at Talan Consulting 
 
 ## Projects
+
 
 
